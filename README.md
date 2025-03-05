@@ -125,7 +125,7 @@ The system implements basic error handling within the `GateService` to ensure th
 ### 9. Technical Design
 
 *   **Technology Stack:**
-    *   Java 11+
+    *   Java 17
     *   Spring Boot
     *   Spring Data JPA
     *   MySQL
