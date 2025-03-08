@@ -150,8 +150,9 @@ The system implements basic error handling within the `GateService` to ensure th
 
 ### 11. Future Enhancements
 
+*   Adding multiple routest that includes station junctions.
 *   Implement user authentication and authorization.
 *   Add support for different token types (e.g., daily passes, monthly passes).
 *   Integrate with a payment gateway for online token purchases.
 *   Implement real-time monitoring of gate access.
-*   Add proper exception handling and logging.
+
